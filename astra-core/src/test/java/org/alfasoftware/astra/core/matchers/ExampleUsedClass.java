@@ -2,7 +2,7 @@ package org.alfasoftware.astra.core.matchers;
 
 import java.util.Collection;
 
-class ExampleUsedClass {
+public class ExampleUsedClass {
 
   String baseMethod(){
     return "anything";
